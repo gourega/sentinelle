@@ -1,0 +1,13 @@
+{
+  "name": "Sentinelle Verte",
+  "short_name": "Sentinelle",
+  "description": "Civic Tech propulsée par l'IA pour une Côte d'Ivoire sans déchets.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#102218",
+  "theme_color": "#13ec6d",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
